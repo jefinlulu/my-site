@@ -104,12 +104,13 @@ body {
 }
 
 .dispositivos {
-    text-align: center;
+    align-items: center;
 }
 
 .dispositivos__titulo {
     font-size: 48px;
     color: var(--branco-principal);
+    text-align: center;
 }
 
 .lista__item {
