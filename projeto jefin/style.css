@@ -7,6 +7,11 @@
     --botao-azul-efeito: #3c92fa;
 }
 
+.tituloo{
+    text-align: center;
+    font-size: 70px;
+}
+
 .title{
     text-align: center;
     font-size: 70px;
@@ -27,7 +32,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/Background.png");
+    background-image: url("WhatsApp Image 2024-05-06 at 01.23.29.jpeg");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
